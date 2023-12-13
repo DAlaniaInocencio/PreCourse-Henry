@@ -1,2 +1,1 @@
-# PreCourse-Henry
-Este es un repositorio del modulo2 del precourse
+Este es un proyecto para clonar ede giuthup
